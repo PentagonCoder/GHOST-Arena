@@ -1,4 +1,5 @@
 # Ghost-Arena
+<img width="1919" height="1015" alt="Screenshot 2026-06-06 185410" src="https://github.com/user-attachments/assets/26fa86f9-4a66-4a64-844d-2b5c19136baf" />
 
 A browser-based 3D multiplayer game built with React, Vite, and Three.js (via React Three Fiber). Players join with a username, move around a shared map in real time, and attack nearby opponents.
 
